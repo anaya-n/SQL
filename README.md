@@ -1,3 +1,3 @@
 # SQL
-SQL Academy Practice
+SQL Academy Practice.
 Tasks from 1 to 58
